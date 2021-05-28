@@ -1,3 +1,16 @@
 body{
-  background-color: #deaf
+  background-color: #beefcafe;
+  color: #123456
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10% 10%
+}
+
+.exp-header{
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 7px solid #deafbabe;
+  border-bottom: 7px solid #deafbabe;
+  border-left: 7px solid #deafbabe;
+  border-right: 7px solid #deafbabe;
+  background-color: #f3cfc6
 }
